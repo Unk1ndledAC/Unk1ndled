@@ -10,12 +10,12 @@
 
 - [x] 简体中文
 - [x] 繁体中文
-- [x] English (may have forgotten a little bit (a byte🤓☝🏻))
+- [x] English (may have forgotten a little bit)
 - [ ] Deutsch (lerne ich gerade)
 - [ ] Русский (в процессе)
-- [x] Markdown
-- [x] C
-- [x] C++
-- [x] Java
-- [x] Python
-- [x] Visual Basic
+- [x] Markdown (familiar)
+- [x] C (familiar)
+- [x] C++ (familiar)
+- [x] Java (familiar)
+- [x] Python (familiar)
+- [x] Visual Basic (familiar)
