@@ -1,7 +1,7 @@
 # Hello there! 🤓☝🏻
 ## Unk1ndled or Q-AC
-### Contact me through QQ email unk1ndled@qq.com
-### Or follow my bilibili account Q-AC (https://space.bilibili.com/2049457736)
+### Contact me through Foxmail: unk1ndled@foxmail.com
+### Or follow my bilibili account Q-AC: https://space.bilibili.com/2049457736
 ### Or play games with me on Steam😋
 ##### CS only: https://steamcommunity.com/id/-Unk1ndled/
 ##### Other games: https://steamcommunity.com/id/Q-AC/
