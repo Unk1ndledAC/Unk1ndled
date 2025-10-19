@@ -10,7 +10,7 @@
 
 - [x] 简体中文
 - [x] 繁体中文
-- [x] English (may have forgotten a lot)
+- [x] English (may have forgotten a little bit (a byte🤓☝🏻))
 - [ ] Deutsch (im Unterricht)
 - [ ] Русский (в процессе изучения)
 - [ ] 日本語 (学ぶ)
